@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820102675276",
+    "project_id": "social-media-app-zego",
+    "storage_bucket": "social-media-app-zego.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820102675276:android:bd9b3531fd149402b4ade9",
+        "android_client_info": {
+          "package_name": "com.example.zegowith_asif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCat7zROyPm6qW9Y4O1l2f0Iawgok1e4xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
